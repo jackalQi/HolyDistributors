@@ -1236,7 +1236,7 @@ class SqlOut {
 		}
 		try{
 			Connection connect = DriverManager.getConnection(
-			          "jdbc:mysql://localhost:3306/Holt Distributors?useSSL=false","root","19890429");
+			          "jdbc:mysql://localhost:3306/Holt Distributors?useSSL=false","root","password");
 			//System.out.println("Success connect Mysql server!");
 		      Statement stmt = connect.createStatement();
 		      ResultSet rs = stmt.executeQuery(query);
@@ -1266,7 +1266,7 @@ class SqlIn {
 		}
 		try{
 			Connection connect = DriverManager.getConnection(
-			          "jdbc:mysql://localhost:3306/Holt Distributors?useSSL=false","root","19890429");
+			          "jdbc:mysql://localhost:3306/Holt Distributors?useSSL=false","root","password");
 			//System.out.println("Success connect Mysql server!");
 		      Statement stmt = connect.createStatement();
 		      stmt.executeUpdate(query);
