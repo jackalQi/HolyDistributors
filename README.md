@@ -44,3 +44,10 @@ Sales  Rep can edit personal information, enter/delete customers that  are repre
   <img src = "" alt = "system demo>
   </p>
   
+  <hr>
+  <h2>Order Detail</h2>
+  <p>
+  When customer place an order, it will show up in the vendor’s order window with a ‘ordered' status, after the vendor accept this order, it will changed to ‘shipped’,the order will remove from the customer purchase window to the report window, and then customer’s account, salesRep’ s account, and the unit of the parts will change base on the order details.
+
+  <img src = "" alt = "system demo">
+  </p>
