@@ -8,7 +8,7 @@ A system that can be used by 'customer', 'vendor', ‘sales rep’ and ‘admini
 Choose  the different character to login the system. <br/>
 If the user name is not stored in database, it will prompt user doesn’t exist !<br/>
 if the user name is in database but password is not matched, it will prompt wrong password !
-  <img src = "https://github.com/jackalQi/images/blob/master/d4.gif">
+  <img src = "" alt ="system demo">
   </p>
   
   <hr>
@@ -20,7 +20,7 @@ if the user name is in database but password is not matched, it will prompt wron
   
   <h2>Customer Panel</h2>
   <p>
-  <img src = "https://github.com/jackalQi/images/blob/master/d1.gif" alt = "system demo">
+  <img src = "" alt = "system demo">
   </p>
   
   <hr>
