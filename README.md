@@ -41,7 +41,7 @@ Customer can edit personal information, check the balance in their account, plac
   <h2>Sales Rep Panel</h2>
   <p>
 Sales  Rep can edit personal information, enter/delete customers that  are represented by them, check account balance, and check customer order reports. 
-  <img src = "" alt = "system demo>
+  <img src = "" alt = "system demo">
   </p>
   
   <hr>
