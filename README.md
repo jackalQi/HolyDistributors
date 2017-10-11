@@ -18,11 +18,6 @@ if the user name is in database but password is not matched, it will prompt wron
   <img src = "" alt ="system demo">
   </p>
   
-  <h2>Customer Panel</h2>
-  <p>
-  <img src = "" alt = "system demo">
-  </p>
-  
   <hr>
   <h2>Customer Panel</h2>
   <p>
