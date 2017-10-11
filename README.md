@@ -15,7 +15,7 @@ if the user name is in database but password is not matched, it will prompt wron
   <h2>Admin Panel</h2>
   <p>
   Admin can enter/edit/delete all the information that stored in the database, check all the information report, and set all back to default(Month-End(not implement)).
-  <img src = "https://github.com/jackalQi/images/blob/master/StartPanel.gif">
+  <img src = "https://github.com/jackalQi/images/blob/master/AdminPanel.gif">
   </p>
   
   <hr>
